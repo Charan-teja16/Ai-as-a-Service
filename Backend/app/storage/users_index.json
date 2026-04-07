@@ -1,0 +1,38 @@
+{
+  "8447e2a2-ddd9-4e1a-a005-185c244d5fd4": {
+    "user_id": "8447e2a2-ddd9-4e1a-a005-185c244d5fd4",
+    "username": "Charan_Teja",
+    "email": "polacharanteja123@gmail.com",
+    "hashed_password": "$2b$12$JuDOl.JSRqoVUbdK8IYOsO5tHPgFsPLCSChOZpqP.I0SIKu9g5WQa",
+    "created_at": "2025-12-16T08:17:33.618031",
+    "is_subscribed": true,
+    "free_runs_remaining": 5,
+    "total_runs": 0,
+    "otp_code": null,
+    "otp_expires_at": null
+  },
+  "ecc4bac5-6d50-41a7-a4db-791f14d5c8b6": {
+    "user_id": "ecc4bac5-6d50-41a7-a4db-791f14d5c8b6",
+    "username": "DVS_Saketh",
+    "email": "22r11a0512@gcet.edu.in",
+    "hashed_password": "$2b$12$O3iBvv1.A/vKwME5hdKjmuHdO2ux8NK3o0EbydC1dHoxInyPBG09W",
+    "created_at": "2025-12-19T06:57:21.432028",
+    "is_subscribed": true,
+    "free_runs_remaining": 0,
+    "total_runs": 5,
+    "otp_code": null,
+    "otp_expires_at": null
+  },
+  "4d44bca3-615c-4120-a7da-94d7a9a00f17": {
+    "user_id": "4d44bca3-615c-4120-a7da-94d7a9a00f17",
+    "username": "dhanush",
+    "email": "dhanushdommata@gmail.com",
+    "hashed_password": "$2b$12$N9CbFdv2NIwFiZWaxm3Ix.R5m8QEdFIDTqnobZ0tZzcwsLk066gUW",
+    "created_at": "2026-03-07T04:57:01.712648",
+    "is_subscribed": false,
+    "free_runs_remaining": 0,
+    "total_runs": 5,
+    "otp_code": null,
+    "otp_expires_at": null
+  }
+}
